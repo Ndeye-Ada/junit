@@ -20,11 +20,5 @@ public class Retrait extends Operation{
 	}
 
 	
-	/*
-*habi
-*
-*
-*habi
-*
-*/
+	
 }

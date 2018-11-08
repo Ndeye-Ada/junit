@@ -12,13 +12,4 @@ public interface IBanqueMetier {
 	public void virement(String codeCpte1, String codeCpte2, double montant);
 	public Page<Operation> listOperation(String codeCpte, int page, int size);
 	
-	/*
-*
-*habi
-*/
-/*
-*
-*habi
-*/
-	
 }

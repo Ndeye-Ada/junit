@@ -5,11 +5,6 @@ import java.util.Date;
 import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
 
-/*
-*Habi
-/*
-*habi
-*/
 @Entity
 @DiscriminatorValue("CC")
 public class CompteCourant extends Compte{

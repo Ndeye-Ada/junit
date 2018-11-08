@@ -1,8 +1,4 @@
 package org.sid.dao;
-/*
-*
-*habi
-*/
 
 import org.sid.entities.Compte;
 import org.springframework.data.jpa.repository.JpaRepository;
